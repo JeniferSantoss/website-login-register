@@ -21,5 +21,5 @@ O site foi desenvolvido utilizando as seguintes tecnologias:
 ## Contribuindo
 Sinta-se à vontade para contribuir com o projeto. Você pode reportar bugs, sugerir melhorias ou enviar novas funcionalidades através das issues. Se preferir, você também pode enviar um pull request com suas alterações.
 
-## Autor
+## Contato
 Se você tiver alguma dúvida ou sugestão, pode entrar em contato através do email santos-jenifer@outlook.com :snowflake:.
