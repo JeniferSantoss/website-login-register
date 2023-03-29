@@ -15,7 +15,7 @@ Na página de registro, você deverá informar seus dados pessoais, como nome, e
 O site foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
-* Javascript
+* JavaScript
 + CSS
 
 ## Contribuindo
