@@ -1,8 +1,8 @@
 # website-login-register
 Este é um projeto de um site simples de login e registro, desenvolvido principalmente em HTML e CSS. O site tem duas páginas: uma para o login e outra para o registro de novos usuários.
 
-## Como usar
-Para acessar o site, basta abrir o arquivo index.html em um navegador web. Na página inicial, você poderá optar por fazer login ou se registrar. Ao escolher a opção desejada, você será redirecionado para a página correspondente.
+## Como executar
+Para acessar o site, basta clicar [aqui](https://jenifersantoss.github.io/website-login-register/). Na página inicial, você poderá optar por fazer login ou se registrar. Ao escolher a opção desejada, você será redirecionado para a página correspondente.
 
 ## Funcionalidades
 #### Login
